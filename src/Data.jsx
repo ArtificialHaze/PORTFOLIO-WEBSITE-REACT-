@@ -1,0 +1,150 @@
+export const services=[
+    {
+        id:1,
+        name:'',
+        title:'',
+        desc:''
+    },
+    {
+        id:2,
+        name:'',
+        title:'',
+        desc:''
+    },
+    {
+        id:3,
+        name:'',
+        title:'',
+        desc:''
+    },
+    {
+        id:4,
+        name:'',
+        title:'',
+        desc:''
+    },
+    {
+        id:5,
+        name:'',
+        title:'',
+        desc:''
+    },
+]
+
+export const links=[
+    {
+        name:'Home',
+        path:'home'
+    },
+    {
+        name:'Services',
+        path:'services'
+    },
+    {
+        name:'',
+        path:''
+    },
+    {
+        name:'Contact',
+        path:'contact'
+    },
+]
+
+export const skills=[
+    {
+        id:1,
+        name:'',
+        percent:0,
+        desc:''
+    },
+     {
+        id:2,
+        name:'',
+        percent:0,
+        desc:''
+    },
+     {
+        id:3,
+        name:'',
+        percent:0,
+        desc:''
+    },
+     {
+        id:4,
+        name:'',
+        percent:0,
+        desc:''
+    },
+     {
+        id:5,
+        name:'',
+        percent:0,
+        desc:''
+    },
+]
+
+export const projects=[
+    {
+        id:1,
+        img:'',
+        category:'',
+        title:'',
+        desc:''
+    },
+    {
+        id:2,
+        img:'',
+        category:'',
+        title:'',
+        desc:''
+    },
+    {
+        id:3,
+        img:'',
+        category:'',
+        title:'',
+        desc:''
+    },
+    {
+        id:4,
+        img:'',
+        category:'',
+        title:'',
+        desc:''
+    },
+]
+
+export const cv=[
+    {
+        id:1,
+        title:'',
+        subtitle:'',
+        date:'',
+        desc:'',
+        category:''
+    },
+    {
+        id:2,
+        title:'',
+        subtitle:'',
+        date:'',
+        desc:'',
+        category:''
+    },
+    {
+        id:3,
+        title:'',
+        subtitle:'',
+        date:'',
+        desc:'',
+        category:''
+    },
+    {
+        id:4,
+        title:'',
+        subtitle:'',
+        date:'',
+        desc:'',
+        category:''
+    },
+]
